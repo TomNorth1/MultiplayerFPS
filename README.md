@@ -25,6 +25,7 @@ Fully replicated inventory system and item system featuring health items, ammo, 
 
 Able to loot other inventories i.e dead players. Inventory system is modular so can be added to any Actor in game so makes it easy to add something like storage lockers.
 
-![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnd3cjh4Zm1vcXlwNW4yeGxtMmcwMWx4ZzczNHUyZmp4eDRtajhnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5ttUTaCpOX5LI4qcz5/giphy.gif)
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnd3cjh4Zm1vcXlwNW4yeGxtMmcwMWx4ZzczNHUyZmp4eDRtajhnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5ttUTaCpOX5LI4qcz5/giphy-downsized-large.gif)
 
-Demonstration of Valorant esque recoil system.
+Demonstration of Valorant esque recoil system. Bullets go up in a vertical pattern till they meet a max height then start to have more horizontal recoil. Patterns can be changed on a per weapon basis and can adjust the randomness of each pattern.
+
