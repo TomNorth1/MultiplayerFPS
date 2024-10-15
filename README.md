@@ -29,3 +29,7 @@ Able to loot other inventories i.e dead players. Inventory system is modular so 
 
 Demonstration of Valorant esque recoil system. Bullets go up in a vertical pattern till they meet a max height then start to have more horizontal recoil. Patterns can be changed on a per weapon basis and can adjust the randomness of each pattern.
 
+Further examples of this project can be found in my YouTube portfolio video here:
+↓
+
+[![](https://img.youtube.com/vi/g8mHCsSSICo/0.jpg)](https://www.youtube.com/watch?v=g8mHCsSSICo)
